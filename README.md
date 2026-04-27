@@ -1,6 +1,6 @@
 # Stock Market Analysis Project
 
-## Overview
+## Overview 
 This project provides a comprehensive analysis of historical stock market data, specifically focusing on **Tesla (TSLA)** between **January 1, 2012, and January 1, 2017**. It demonstrates essential data science workflows, including data acquisition, exploratory data analysis (EDA), and data visualization using Python's powerful analytical libraries.
 
 ## Key Features
