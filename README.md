@@ -1,5 +1,3 @@
-This README provides a professional overview of your Stock Market Analysis project based on the shared Google Colab notebook.
-
 # Stock Market Analysis Project
 
 ## Overview
